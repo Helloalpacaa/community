@@ -1,0 +1,33 @@
+2023-08-22 00:44:16,878 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m56s807ms).
+2023-08-22 00:57:10,260 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m53s406ms).
+2023-08-22 01:33:09,882 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m59s622ms).
+2023-08-22 02:18:03,199 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m53s317ms).
+2023-08-22 03:06:11,230 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m8s31ms).
+2023-08-22 04:12:21,484 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m10s252ms).
+2023-08-22 05:20:11,077 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m49s595ms).
+2023-08-22 06:26:36,370 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m25s294ms).
+2023-08-22 06:42:08,138 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s768ms).
+2023-08-22 12:05:05,263 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m24s253ms).
+2023-08-22 12:11:42,658 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m37s400ms).
+2023-08-22 12:14:10,158 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m44s528ms).
+2023-08-22 12:15:11,519 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s366ms).
+2023-08-22 12:16:01,796 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s276ms).
+2023-08-22 12:17:13,418 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m11s624ms).
+2023-08-22 12:20:43,512 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m30s92ms).
+2023-08-22 13:46:14,088 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m59s921ms).
+2023-08-22 13:47:15,790 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s707ms).
+2023-08-22 13:48:07,796 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s6ms).
+2023-08-22 13:49:12,911 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m5s115ms).
+2023-08-22 13:50:36,388 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s822ms).
+2023-08-22 13:52:44,845 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m8s457ms).
+2023-08-22 15:03:49,334 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m33s992ms).
+2023-08-22 15:17:43,666 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m24s156ms).
+2023-08-22 15:18:54,933 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m11s273ms).
+2023-08-22 15:26:26,814 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m31s881ms).
+2023-08-22 16:34:25,217 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:796] HikariPool-1 - Retrograde clock change detected (housekeeper delta=27s960ms), soft-evicting connections from pool.
+2023-08-22 16:40:01,271 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m35s930ms).
+2023-08-22 16:50:39,169 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m1s952ms).
+2023-08-22 17:40:56,523 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m17s355ms).
+2023-08-22 17:49:32,460 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:804] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m35s937ms).
+2023-08-22 20:06:17,987 WARN [http-nio-8080-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8080-exec-10][/site/login] Deprecated unwrapped fragment expression "index::header" found in template /site/login, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-08-22 20:06:18,423 WARN [http-nio-8080-exec-2] o.a.c.u.SessionIdGeneratorBase [DirectJDKLog.java:173] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [188] milliseconds.
